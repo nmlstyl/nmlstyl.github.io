@@ -3,7 +3,6 @@
 # while carrying nmlstyl branding/metadata for link previews and crawlers.
 # To turn this into a real site later, restore `layout: home` and add content below.
 layout: null
-sitemap: false
 ---
 <!DOCTYPE html>
 <html lang="en">

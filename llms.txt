@@ -1,0 +1,17 @@
+# nmlstyl
+
+> nmlstyl (say it "animal style") is Joey Mariano's audiovisual project: chip/synth/vapor-wave, surf rock, techno, and retro 80s textures — with guitar, graffiti, code, and pixel art. This domain (nmlstyl.art) redirects to the music section of joeymariano.com.
+
+## Pages
+
+- [Music](https://joeymariano.com/music): nmlstyl recordings, releases, and live shows — chiptune, Game Boy and Sega Genesis programming, guitar, and the TwilioQuest soundtrack
+- [Main site](https://joeymariano.com): Joey Mariano — Creative Technologist, Artist, and Educator
+
+## About nmlstyl
+
+The live show combines chip/synth/vapor-wave, surf rock, techno, instrumental hip hop, and retro 80s textures. Influenced by video game soundtracks, jazz professionals, and DIY punk. Expect covers of popular songs with parts replaced by a game console, original music built from 90s puzzle-game samples, reinvented Pac-Man-style sound effects, Joey-style improvisation, retro guitar tones, and lush synth bass patches.
+
+## Links
+
+- [Bandcamp](https://nmlstyl.bandcamp.com): releases
+- [Contact](mailto:joey@joeymariano.com)
