@@ -48,9 +48,41 @@ layout: null
   <meta name="twitter:title" content="nmlstyl">
   <meta name="twitter:description" content="nmlstyl (say it 'animal style') — Joey Mariano's chip/synth/vapor-wave, surf rock, techno &amp; retro 80s textures, with guitar, graffiti, code &amp; pixel art.">
   <meta name="twitter:image" content="https://nmlstyl.art/assets/og-nmlstyl.jpg">
+
+  <!-- Matches the grid background on joeymariano.com (.bg-grid). Inlined since
+       this standalone page doesn't load that site's stylesheet. -->
+  <style>
+    .bg-grid {
+      background-attachment: fixed;
+      background-image:
+        linear-gradient(#222 1.1px, transparent 0),
+        linear-gradient(90deg, #222 1.1px, #0a0a0a 0);
+      background-repeat: repeat;
+      background-size: 40px 40px;
+      background-position: 50%;
+      min-height: 100vh;
+    }
+    body {
+      margin: 0;
+      color: #fff;
+      font-family: ui-sans-serif, system-ui, sans-serif;
+    }
+    a { color: #60a5fa; }
+    /* Visually hide the fallback link but keep it for no-JS users,
+       screen readers, and crawlers. */
+    .sr-only {
+      position: absolute;
+      width: 1px; height: 1px;
+      margin: -1px; padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+  </style>
 </head>
-<body>
-  <p>Redirecting to <a href="https://joeymariano.com/music">joeymariano.com/music</a>&hellip;</p>
+<body class="bg-grid">
+  <p class="sr-only">Redirecting to <a href="https://joeymariano.com/music">joeymariano.com/music</a>&hellip;</p>
 
   <!-- Bio (for crawlers and any future build-out) -->
   <main hidden>
