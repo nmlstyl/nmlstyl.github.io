@@ -11,10 +11,21 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>nmlstyl</title>
 
-  <!-- Redirect humans to the music page (crawlers still read the metadata below) -->
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2M4PYC135Q"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-2M4PYC135Q');
+  </script>
+
+  <!-- Redirect humans to the music page (crawlers still read the metadata below).
+       Brief delay lets the GA pageview/referrer hit fire before we navigate away. -->
   <link rel="canonical" href="https://nmlstyl.art/">
-  <meta http-equiv="refresh" content="0; url=https://joeymariano.com/music">
-  <script>location.replace("https://joeymariano.com/music" + location.search + location.hash);</script>
+  <meta http-equiv="refresh" content="1; url=https://joeymariano.com/music">
+  <script>setTimeout(function(){location.replace("https://joeymariano.com/music" + location.search + location.hash);}, 250);</script>
 
   <!-- Identity -->
   <meta name="description" content="nmlstyl (say it 'animal style') — Joey Mariano's chip/synth/vapor-wave, surf rock, techno &amp; retro 80s textures, with guitar, graffiti, code &amp; pixel art.">
