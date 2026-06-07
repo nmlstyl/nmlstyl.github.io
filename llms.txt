@@ -18,14 +18,52 @@ The live show combines chip/synth/vapor-wave, surf rock, techno, instrumental hi
 - [Apple Music](https://music.apple.com/us/artist/nmlstyl/1250457183): streaming
 - [YouTube](https://www.youtube.com/channel/UCGrOm7bi23stLPpvh5zuJKA): videos
 - [SoundCloud](https://soundcloud.com/nmlstyl): streaming
+- [Deezer](https://www.deezer.com/artist/1012650): streaming
+- [Discogs](https://www.discogs.com/artist/697414-Animal-Style): discography database
+- [Internet Archive](https://archive.org/details/@nmlstyl): uploads (ROMs, recordings, favorites)
 - [Instagram](https://www.instagram.com/nmlstyl/): updates
 - [Linktree](https://linktr.ee/nmlstyl): all links
 - [joeymariano.com](https://joeymariano.com): main site / redirect target
 - [8static](https://www.8static.com): Philadelphia chiptune showcase & festival co-founded by Joey Mariano (2008)
 - [Contact](mailto:joey@joeymariano.com)
 
+## Discography (nmlstyl / animal style)
+
+- [What is Species (2007, EP)](https://animalstyle.bandcamp.com/album/what-is-species) · [Apple](https://music.apple.com/us/album/what-is-species-ep/1779630728) · [Deezer](https://www.deezer.com/album/669989961)
+- [Open Air (2008, EP)](https://animalstyle.bandcamp.com/album/open-air) · [Apple](https://music.apple.com/us/album/open-air-ep/1779600206) · [Deezer](https://www.deezer.com/album/669402571)
+- [Teletime (2010)](https://animalstyle.bandcamp.com/album/teletime) · [Spotify](https://open.spotify.com/album/1trjVjYvOcewVqbgzStAJL) · [Apple](https://music.apple.com/us/album/teletime/1779605398) · [Deezer](https://www.deezer.com/album/669402891)
+- [Trenchvent (2011, EP)](https://animalstyle.bandcamp.com/album/trenchvent) · [Apple](https://music.apple.com/us/album/trenchvent-ep/1779605071) · [Deezer](https://www.deezer.com/album/669403011)
+- [nmlstyl (2017)](https://nmlstyl.bandcamp.com/album/nmlstyl) · [Apple](https://music.apple.com/us/album/nmlstyl/1250508355)
+- [nmlstyl.concat (2017)](https://nmlstyl.bandcamp.com/album/nmlstyl-concat) · [Apple](https://music.apple.com/us/album/concat/1309423872) · [Deezer](https://www.deezer.com/album/51270262)
+- [Workplace Ergonomics (2018)](https://nmlstyl.bandcamp.com/album/workplace-ergonomics) · [Apple](https://music.apple.com/us/album/workplace-ergonomics/1375742857) · [Deezer](https://www.deezer.com/album/62079952)
+- [counterbeats && drips (2022)](https://nmlstyl.bandcamp.com/album/counterbeats-drips) · [Apple](https://music.apple.com/us/album/counterbeats-drips/1629661248) · [Deezer](https://www.deezer.com/album/327418347)
+- [petraglyph (2023)](https://nmlstyl.bandcamp.com/album/petraglyph) · [Apple](https://music.apple.com/us/album/petraglyph/1714687730) · [Deezer](https://www.deezer.com/album/507654371)
+- [sp33k (2024)](https://nmlstyl.bandcamp.com/album/sp33k) · [Apple](https://music.apple.com/us/album/sp33k/1769940754) · [Deezer](https://www.deezer.com/album/646679531)
+
+## Guitar on Cheap Dinosaurs
+
+Joey Mariano played guitar on these Cheap Dinosaurs releases:
+
+- [Cheap Dinosaurs (2011)](https://music.apple.com/us/album/cheap-dinosaurs/1439271807) · [Deezer](https://www.deezer.com/album/75862292)
+- [Plays Goblin (2012)](https://cheapdinosaurs.bandcamp.com/album/cheap-dinosaurs-plays-goblin) · [Apple](https://music.apple.com/us/album/plays-goblin/1440094648) · [Deezer](https://www.deezer.com/album/76630052)
+- [Triangle Trash (2014, EP)](https://music.apple.com/us/album/triangle-trash-ep/1439271982) · [Deezer](https://www.deezer.com/album/8411820)
+- [High Strangeness (2016)](https://cheapdinosaurs.bandcamp.com/album/high-strangeness) · [Apple](https://music.apple.com/us/album/high-strangeness/1439267133) · [Deezer](https://www.deezer.com/album/75858122)
+
+## Video
+
+- [Gameboy Foot Controller Demo + 8bit Guitar (2008)](https://www.youtube.com/watch?v=lQdqudTzyBs) ([archived](http://web.archive.org/web/20260604095313/https://www.youtube.com/watch?v=lQdqudTzyBs))
+- [MAGFest 2022: nmlstyl (w/ visuals by Claire Kwong)](https://www.youtube.com/watch?v=B_YDXj54Ug4) ([archived](http://web.archive.org/web/20220814170830/https://www.youtube.com/watch?v=B_YDXj54Ug4))
+- [MAGFest 2025: nmlstyl](https://www.youtube.com/watch?v=Mo_EbGx_LUQ) ([archived](http://web.archive.org/web/20260421040811/https://www.youtube.com/watch?v=Mo_EbGx_LUQ))
+- [The Verge — Animal Style performs during On The Verge (2012)](https://www.theverge.com/2012/4/30/2988073/animal-style-performs-during-on-the-verge) ([archived](http://web.archive.org/web/20241206221909/https://www.theverge.com/2012/4/30/2988073/animal-style-performs-during-on-the-verge))
+- YouTube channels: [main](https://www.youtube.com/c/nmlstyl) · [legacy (4NIM4L57YL3)](https://www.youtube.com/user/4NIM4L57YL3)
+
+## Art & installations
+
+- [Juvenile Amplifier (2009) — LABoral Centro de Arte](http://www.laboralcentrodearte.org/en/recursos/obras/juvenile-amplifier-2009?set_language=en): sound installation built from Game Boy parts, an LSDj loop, and a homemade CMoy amplifier circuit
+
 ## Press
 
+- [The Verge — Animal Style performs during On The Verge (2012)](https://www.theverge.com/2012/4/30/2988073/animal-style-performs-during-on-the-verge)
 - [Hackaday — Game Boy Foot Controller Demo (2008)](https://hackaday.com/2008/06/15/game-boy-foot-controller-demo/)
 - [Hackaday — Gameboy Foot Controller (2009)](https://hackaday.com/2009/08/31/gameboy-foot-controller/)
 - [Gizmodo — Game Boy Foot Controller Mod For a Full-Body Music Experience](https://gizmodo.com/game-boy-foot-controller-mod-for-a-full-body-music-expe-327115)
@@ -37,3 +75,20 @@ The live show combines chip/synth/vapor-wave, surf rock, techno, instrumental hi
 - [The Philadelphia Inquirer — Music is their game (2010)](https://www.inquirer.com/philly/entertainment/20100317_Music_is_their_game.html)
 - [The Philadelphia Inquirer — Third annual 8static Fest (2015)](https://www.inquirer.com/philly/entertainment/music/20151013_Third_annual_8static_Fest_rocks_Unitarian_Church_with_______Game_Boy_.html)
 - [Geekadelphia — 8static Annual Chiptune Festival](http://www.geekadelphia.com/2014/10/13/8static-annual-chiptune-festival-returns-october-16-18/)
+- [Original Sound Version — "Open Air" EP review](http://www.originalsoundversion.com/id-like-my-chiptunes-animal-style-please-open-air-ep-review/) ([archived](http://web.archive.org/web/20241025183545/http://www.originalsoundversion.com/id-like-my-chiptunes-animal-style-please-open-air-ep-review/))
+- [LABoral Centro de Arte — Joey Mariano / Animal Style (artist profile)](https://laboralcentrodearte.org/en/artists-curators-and-researchers/joey-mariano-animal-style-2/) ([archived](http://web.archive.org/web/20260207171408/https://laboralcentrodearte.org/en/artists-curators-and-researchers/joey-mariano-animal-style-2/))
+- [This Week in Chiptune — 8static Festival 2017](https://thisweekinchiptune.com/8static-festival-2017/)
+- [This Week in Chiptune — TWiC 030: 8Static Festival Special](https://thisweekinchiptune.com/030/)
+
+## Releases & community
+
+- [8bitpeoples — Animal Style: Open Air (8BP106)](http://www.8bitpeoples.com/products/520267-animal-style-open-air) ([archived](http://web.archive.org/web/20260306020139/https://www.8bitpeoples.com/products/520267-animal-style-open-air))
+- [ChipMusic.org — Animal Style: TRENCHVENT release thread](https://chipmusic.org/forums/topic/1236/8bp106-animal-style-trenchvent/) ([archived](http://web.archive.org/web/20230427171907/https://chipmusic.org/forums/topic/1236/8bp106-animal-style-trenchvent/))
+- [8static — Philly Chip Vol. 1 compilation (Bandcamp)](https://8static.bandcamp.com/album/8static-philly-chip-vol-1)
+- [8static on X/Twitter](https://x.com/8static)
+
+## Internet Archive
+
+- [8static chiptunes concert — VCF East 6.0 (recording)](https://archive.org/details/VCFE6Concert)
+- [TWiC 030: 8Static Festival Special — DJ CUTMAN (recording)](https://archive.org/details/podcast_this-week-chiptune_twic-030-8static-festival-spe_1000360896260)
+- [8static.com — earliest snapshot (June 2009)](http://web.archive.org/web/20090614222456/http://8static.com/)
