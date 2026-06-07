@@ -17,7 +17,7 @@ layout: null
   <script>location.replace("https://joeymariano.com/music" + location.search + location.hash);</script>
 
   <!-- Identity -->
-  <meta name="description" content="nmlstyl — say it 'animal style.' Joey Mariano's audiovisual project: chip/synth/vapor-wave, surf rock, techno, and retro 80s textures, with guitar, graffiti, code, and pixel art.">
+  <meta name="description" content="nmlstyl (say it 'animal style') — Joey Mariano's chip/synth/vapor-wave, surf rock, techno &amp; retro 80s textures, with guitar, graffiti, code &amp; pixel art.">
   <meta name="author" content="Joey Michalina Mariano">
   <meta name="keywords" content="chiptune, synthwave, vaporwave, guitar, 8bit, chip music, diy, graffiti, electronic, techno, surfrock, nes, sega genesis">
   <link rel="icon" href="/assets/favicon.ico" sizes="any">
@@ -26,17 +26,17 @@ layout: null
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="nmlstyl">
   <meta property="og:title" content="nmlstyl">
-  <meta property="og:description" content="nmlstyl — say it 'animal style.' Joey Mariano's audiovisual project: chip/synth/vapor-wave, surf rock, techno, and retro 80s textures, with guitar, graffiti, code, and pixel art.">
+  <meta property="og:description" content="nmlstyl (say it 'animal style') — Joey Mariano's chip/synth/vapor-wave, surf rock, techno &amp; retro 80s textures, with guitar, graffiti, code &amp; pixel art.">
   <meta property="og:url" content="https://nmlstyl.art/">
-  <meta property="og:image" content="https://nmlstyl.art/assets/og-nmlstyl.png">
-  <meta property="og:image:width" content="2475">
-  <meta property="og:image:height" content="2475">
+  <meta property="og:image" content="https://nmlstyl.art/assets/og-nmlstyl.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="800">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="nmlstyl">
-  <meta name="twitter:description" content="nmlstyl — say it 'animal style.' Joey Mariano's audiovisual project: chip/synth/vapor-wave, surf rock, techno, and retro 80s textures, with guitar, graffiti, code, and pixel art.">
-  <meta name="twitter:image" content="https://nmlstyl.art/assets/og-nmlstyl.png">
+  <meta name="twitter:description" content="nmlstyl (say it 'animal style') — Joey Mariano's chip/synth/vapor-wave, surf rock, techno &amp; retro 80s textures, with guitar, graffiti, code &amp; pixel art.">
+  <meta name="twitter:image" content="https://nmlstyl.art/assets/og-nmlstyl.jpg">
 </head>
 <body>
   <p>Redirecting to <a href="https://joeymariano.com/music">joeymariano.com/music</a>&hellip;</p>
