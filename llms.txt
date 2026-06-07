@@ -21,4 +21,19 @@ The live show combines chip/synth/vapor-wave, surf rock, techno, instrumental hi
 - [Instagram](https://www.instagram.com/nmlstyl/): updates
 - [Linktree](https://linktr.ee/nmlstyl): all links
 - [joeymariano.com](https://joeymariano.com): main site / redirect target
+- [8static](https://www.8static.com): Philadelphia chiptune showcase & festival co-founded by Joey Mariano (2008)
 - [Contact](mailto:joey@joeymariano.com)
+
+## Press
+
+- [Hackaday — Game Boy Foot Controller Demo (2008)](https://hackaday.com/2008/06/15/game-boy-foot-controller-demo/)
+- [Hackaday — Gameboy Foot Controller (2009)](https://hackaday.com/2009/08/31/gameboy-foot-controller/)
+- [Gizmodo — Game Boy Foot Controller Mod For a Full-Body Music Experience](https://gizmodo.com/game-boy-foot-controller-mod-for-a-full-body-music-expe-327115)
+- [Vice — Magical Game Boys: Demystifying The Live Chiptune Performance](https://www.vice.com/en/article/new-diy-game-boy-synth-will-bring-8-bit-to-the-masses/)
+- [Vice — The Inner Workings Of A Gameboy Chip-Tune Virtuoso](https://www.vice.com/en/article/well-this-is-cool-the-chip-tune-game-boy-virtuoso/)
+- [Technical.ly — Why Philly needs chiptune music (Q&A)](https://technical.ly/startups/joey-mariano-animal-style-of-8static-on-why-philly-needs-chiptune-music-qa/)
+- [Technical.ly — 8static, the biggest chiptune festival in North America](https://technical.ly/philly/2013/09/10/8static-festival-largest-chiptune-north-america/)
+- [Knight Foundation — Chiptunes at home in Philly](https://knightfoundation.org/articles/philly-chiptunes/)
+- [The Philadelphia Inquirer — Music is their game (2010)](https://www.inquirer.com/philly/entertainment/20100317_Music_is_their_game.html)
+- [The Philadelphia Inquirer — Third annual 8static Fest (2015)](https://www.inquirer.com/philly/entertainment/music/20151013_Third_annual_8static_Fest_rocks_Unitarian_Church_with_______Game_Boy_.html)
+- [Geekadelphia — 8static Annual Chiptune Festival](http://www.geekadelphia.com/2014/10/13/8static-annual-chiptune-festival-returns-october-16-18/)
